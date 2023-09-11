@@ -127,7 +127,7 @@ def remove_details():
         
 def display():
     print()
-    print('Following things can be done using this DBMS sofware of KENDRIYA VIDYALAYA COSSIPORE --> ')
+    print('Following things can be done using this DBMS sofware of DAV Purulia --> ')
     print()
     print('1. to see details')
     print('2. to register details')
@@ -300,7 +300,7 @@ def vd_teach():
 
 def id_teach():
     print()
-    print("to register details of a new teacher in the school database of kv_cossipore.....")
+    print("to register details of a new teacher in the school database of DAV Purulia.....")
     print("you need to submit the following details !!:")
     print()
     xe=str(input("enter teacher id:_"))
@@ -332,7 +332,7 @@ def id_teach():
 
 def id_stud():
     print()
-    print("to register details of a new student in the school database of kv_cossipore.....")
+    print("to register details of a new student in the school database of DAV Purulia.....")
     print("you need to submit the following details: !!")
     print()
     ze=int(input("enter admission number of student:_"))
